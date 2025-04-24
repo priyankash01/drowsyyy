@@ -1,0 +1,7 @@
+Flask==2.2.5
+tensorflow==2.12.0
+numpy
+opencv-python
+opencv-python
+pygame
+scipy
